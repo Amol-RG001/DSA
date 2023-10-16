@@ -2,8 +2,8 @@ package algorithms.bs;
 
 public class OrderAgnosticBS {
     public static void main(String[] args) {
-        //int []arr = {10,32,43,53,65,76,78};
-        int []arr = {896,345, 333,222,111,53,22,32};
+        int []arr = {10,32,43,53,65,76,78};
+        //int []arr = {896,345, 333,222,111,53,22,32};
         int target = 503;
         int ans = orderAgnosticBS(arr, target);
         System.out.println(ans);
