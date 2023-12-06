@@ -7,7 +7,6 @@ public class OrderAgnosticBS {
         int target = 503;
         int ans = orderAgnosticBS(arr, target);
         System.out.println(ans);
-
     }
 
     static int orderAgnosticBS(int []arr, int target){
