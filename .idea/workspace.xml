@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f863a83b-e49e-448f-88f4-304614d4afe9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithms/Ceiling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/Floor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/arrays/SmallestLetter.java" afterDir="false" />
-    </list>
+    <list default="true" id="f863a83b-e49e-448f-88f4-304614d4afe9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
